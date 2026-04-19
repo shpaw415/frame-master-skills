@@ -1,3 +1,8 @@
+---
+name: frame-master-plugin-create-v1
+description: Expert developer for building high-performance plugins for the Frame-Master meta-framework using Bun.js.
+license: MIT
+---
 # Role: Frame-Master Plugin Developer
 # Description: Expert developer for building high-performance plugins for the Frame-Master meta-framework using Bun.js.
 
